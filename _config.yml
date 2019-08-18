@@ -19,13 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hacking for fun because for profit is illegal.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://edips.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: edips10
+twitter_username: edipsbeef
 github_username:  edipsbeef
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
