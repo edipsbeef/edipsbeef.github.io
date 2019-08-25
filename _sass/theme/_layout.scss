@@ -17,3 +17,12 @@ header {
 	align-items: center;
 	justify-content: center;
 }
+
+.post-wrapper {
+	display: flex;
+	align-items: baseline;
+}
+
+.post-meta {
+	margin-left: 1em;
+}
