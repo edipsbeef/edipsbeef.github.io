@@ -2,14 +2,17 @@ footer {
 	position: absolute;
 	bottom: 1em;
 	right: 1em;
+	height: 1em;
 }
 
 header {
 	text-align: center;
+	height: 15vh;
 }
 
 .wrapper {
 	margin: 1em;
+	padding-bottom: 1em;
 }
 
 .home {
@@ -23,6 +26,15 @@ header {
 	align-items: baseline;
 }
 
+.page-content {
+	position: relative;
+	min-height: 75vh;
+}
+
 .post-meta {
 	margin-left: 1em;
+}
+
+pre {
+	overflow-x: auto;
 }
