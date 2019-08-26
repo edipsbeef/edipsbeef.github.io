@@ -2,7 +2,7 @@
 layout: post
 title:  "Vulnhub westw0rld Walkthrough"
 date:   2019-08-25
-categories: vulnhub westw0rld westworld walkthrough
+categories: vulnhub westw0rld walkthrough
 ---
 # Vulnhub westw0rld Walkthrough
 
